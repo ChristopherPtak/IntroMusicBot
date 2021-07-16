@@ -1,0 +1,7 @@
+
+# Ignore Node.js packages
+node_modules/
+
+# Do not check the auth token into version control
+token.txt
+

@@ -4,6 +4,6 @@
     "start": "node bot.js"
   },
   "dependencies": {
-    "discord": "^0.8.2"
+    "discord.js": "^12.5.3"
   }
 }

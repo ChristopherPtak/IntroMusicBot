@@ -1,0 +1,9 @@
+{
+  "name": "IntroMusicBot",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord": "^0.8.2"
+  }
+}
